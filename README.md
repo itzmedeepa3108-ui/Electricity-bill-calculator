@@ -68,8 +68,4 @@ total_bill:₹ 400
 - Add support for additional connection types.
 - Improve the billing logic with configurable tariff slabs.
 
-## 👩‍💻 Author
-Deepa Ramesh
 
-## 📄 License
-This project is intended for educational and learning purposes.
